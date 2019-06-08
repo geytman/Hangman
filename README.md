@@ -2,15 +2,21 @@
 
     
   ![Screenshot](include/Hangman_p.jpg)
+  
   ![Screenshot](include/Photo_number_seven.jpg)
 
 
 #
-    Welcome to Hangman! A word will be chosen at random and you must try to guess the word correctly letter by letter
+    Welcome to Hangman! A word will be chosen at random and you must try 
+    to guess the word correctly letter by letter
     before you run out of attempts. Good luck!
     There are 20 words in the file and the selected word is in 
-    the index 3 You need to guess a 8-letter word. You have 7 attempts If you're wrong
+    the index 3 You need to guess a 8-letter word. 
+    You have 7 attempts If you're wrong
+
     __  __  __  __  __  __  __  __
+
+
 
 
 # Loss Simulation:
