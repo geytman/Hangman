@@ -1,8 +1,8 @@
-# Simulation of a program run
+# Welcome To The Hangman game
 
     
   ![Screenshot](include/Hangman_p.jpg)
-  
+
   ![Screenshot](include/Photo_number_seven.jpg)
 
 
@@ -18,8 +18,10 @@
 
 
 
+# Simulation of a program run
 
-# Loss Simulation:
+
+<h2> Loss Simulation: </h2>
     
 
     Guess a letter:q
@@ -86,7 +88,9 @@
     You LOSE The Word Was : backpack
     End Game
 
- # Victory Simulation :
+
+<h2> Victory Simulation </h2>
+
 
     Guess a letter:b
     b  __  __  __  __  __  __  __
