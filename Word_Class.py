@@ -1,10 +1,10 @@
 import random
 
+
 class Word:
-  
     @staticmethod
-    def Word_Game():
-        with open('include/word_Game.txt') as file:
+    def get_random_word():
+        with open('include/words.txt') as file:
             data = file.read()
 
         data = data.replace("\n", "")

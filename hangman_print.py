@@ -1,5 +1,4 @@
 class hangman_print:
-
     @staticmethod
     def print_hangman():
         with open('include/hangman_welcome.txt') as file:

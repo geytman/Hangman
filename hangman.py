@@ -16,7 +16,7 @@ def main():
     MAX_TRIES = 7
     End_Game = 0
     hangman_print.print_hangman()
-    secret_word = Word.Word_Game()
+    secret_word = Word.get_random_word()
     length_word = len(secret_word)  
     print(
         "You need to guess a %s-letter word. You have 7 attempts If you're wrong"
